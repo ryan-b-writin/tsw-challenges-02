@@ -7,3 +7,8 @@
 1. Reveal a form with an input box and a button
 1. The user should now be able to enter a color value in the input field.
 1. When the corresponding button is clicked, the currently selected div should change its background color to the color value the user entered in the input box.
+### Other contributors:
+1.[https://github.com/davidcramb](David Cramb)
+1.[https://github.com/VikingPaul](Paul Williams)
+1.[https://github.com/bernardanderson](Bernard Anderson)
+1.[https://github.com/morecallan](Callan Morrison)
