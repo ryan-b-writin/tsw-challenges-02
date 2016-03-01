@@ -10,7 +10,7 @@
 
 ### Other contributors:
 
-(David Cramb)[https://github.com/davidcramb]  
-(Paul Williams)[https://github.com/VikingPaul]   
-(Bernard Anderson)[https://github.com/bernardanderson]  
-(Callan Morrison[https://github.com/morecallan]  
+[David Cramb](https://github.com/davidcramb)  
+[Paul Williams](https://github.com/VikingPaul)   
+[Bernard Anderson](https://github.com/bernardanderson)  
+[Callan Morrison](https://github.com/morecallan)  
