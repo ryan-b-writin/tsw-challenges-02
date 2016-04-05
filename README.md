@@ -8,9 +8,10 @@
 1. The user should now be able to enter a color value in the input field.
 1. When the corresponding button is clicked, the currently selected div should change its background color to the color value the user entered in the input box.
 
-### Other contributors:
+### Contributors:
 
 [David Cramb](https://github.com/davidcramb)  
 [Paul Williams](https://github.com/VikingPaul)   
 [Bernard Anderson](https://github.com/bernardanderson)  
 [Callan Morrison](https://github.com/morecallan)  
+[Ryan Bliton](https://github.com/ryan-b-writin)
